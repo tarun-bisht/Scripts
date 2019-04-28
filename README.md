@@ -17,5 +17,7 @@ For Localized json for laravel project.
 <li> Run the Script and get my json file.
 </ol>
 <h2><a href="https://github.com/tarun-bisht/Scripts/tree/master/prime%20numbers">Prime Numbers</a></h2>
-This Script can check for prime numbers and find prime numbers between a range.
+<ul>
+  <li>This Script can check for Prime Numbers and find Prime Numbers between a Range given.</li>
+</ul>
 
