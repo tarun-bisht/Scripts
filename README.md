@@ -18,6 +18,6 @@ For Localized json for laravel project.
 </ol>
 <h2><a href="https://github.com/tarun-bisht/Scripts/tree/master/prime%20numbers">Prime Numbers</a></h2>
 <ul>
-  <li>This Script can check for Prime Numbers and find Prime Numbers between a Range given.</li>
+<li>This Script can check for Prime Numbers and find Prime Numbers between a Range given.</li>
 </ul>
 
