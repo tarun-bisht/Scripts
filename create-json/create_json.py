@@ -1,3 +1,4 @@
+##create json function
 def create_json(a,b):
     try:
         json_list=list(zip(a,b))
@@ -21,6 +22,7 @@ def create_json(a,b):
         print(f'Something went wrong:: Error: {e}')
 def file_open(path):
     try:
+        ##for reading file in any language
         import codecs
         f=[]
         with codecs.open(path,'r',encoding='utf-8') as file:
