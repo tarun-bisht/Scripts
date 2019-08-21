@@ -1,4 +1,6 @@
 # Scripts
+## In this repo those scripts are pushed which I created and used in some of my tasks. 
+
 <h2><a href="https://github.com/tarun-bisht/Scripts/tree/master/create-json">Create Json File </a></h2>
 <ul>
 <li> This Script is used to create json file from two text files.</li>
