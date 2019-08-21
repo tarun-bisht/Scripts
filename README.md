@@ -13,8 +13,6 @@ For Localized json for laravel project.
 * Using Google translate, translated all the words in desired language
 * Run the Script and get my json file.
 ## [Prime Numbers](https://github.com/tarun-bisht/Scripts/tree/master/prime%20numbers)
-<ul>
-<li>This Script can check for Prime Numbers and find Prime Numbers between a Range given.</li>
-</ul>
+This Script can check for Prime Numbers and find Prime Numbers between a Range given.</li>
 ## [Word Meaning Extractor](https://github.com/tarun-bisht/Scripts/tree/master/word-meaning%20extractor)
 This Script was made for extracting words and meaning from a text file taken from a dictionary. I used these words and meanings in a game which I was making.It extracts words and meanings in two different files
