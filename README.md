@@ -22,5 +22,5 @@ For Localized json for laravel project.
 <ul>
 <li>This Script can check for Prime Numbers and find Prime Numbers between a Range given.</li>
 </ul>
-## (Word Meaning Extractor)[https://github.com/tarun-bisht/Scripts/tree/master/word-meaning%20extractor"]
+## [Word Meaning Extractor](https://github.com/tarun-bisht/Scripts/tree/master/word-meaning%20extractor")
 This Script was made for extracting words and meaning from a text file taken from a dictionary. I used these words and meanings in a game which I was making.It extracts words and meanings in two different files. 
