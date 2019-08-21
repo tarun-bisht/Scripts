@@ -1,7 +1,7 @@
 # Scripts
 ## In this repo those scripts are pushed which I created and used in some of my tasks and may need in future too. These scripts are specific to my tasks so may need some customization for others.
 
-<h2><a href="https://github.com/tarun-bisht/Scripts/tree/master/create-json">Create Json File </a></h2>
+## (https://github.com/tarun-bisht/Scripts/tree/master/create-json)[Create Json File]
 <ul>
 <li> This Script is used to create json file from two text files.</li>
 <li> I have used this script to create json file for localization in my Laravel Project.
@@ -22,5 +22,5 @@ For Localized json for laravel project.
 <ul>
 <li>This Script can check for Prime Numbers and find Prime Numbers between a Range given.</li>
 </ul>
-## [Word Meaning Extractor](https://github.com/tarun-bisht/Scripts/tree/master/word-meaning%20extractor")
+## (https://github.com/tarun-bisht/Scripts/tree/master/word-meaning%20extractor)[Word Meaning Extractor]
 This Script was made for extracting words and meaning from a text file taken from a dictionary. I used these words and meanings in a game which I was making.It extracts words and meanings in two different files
