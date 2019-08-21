@@ -16,3 +16,7 @@ For Localized json for laravel project.
 This Script can check for Prime Numbers and find Prime Numbers between a Range given.</li>
 ## [Word Meaning Extractor](https://github.com/tarun-bisht/Scripts/tree/master/word-meaning%20extractor)
 This Script was made for extracting words and meaning from a text file taken from a dictionary. I used these words and meanings in a game which I was making.It extracts words and meanings in two different files
+## [Binary and Decimal Convertor](https://github.com/tarun-bisht/Scripts/tree/master/binary-decimal%20convertor)
+This Script converts Binary Number to Decimal Number and Decimal Number to Binary
+## [Prime String](https://github.com/tarun-bisht/Scripts/tree/master/prime%20string)
+This Script Check if a string is prime or not. haha (not prime) hah(is prime)
